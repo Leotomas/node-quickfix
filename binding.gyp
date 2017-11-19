@@ -44,8 +44,6 @@
           '-L/usr/local/lib',
           '-lquickfix',
           '-lpthread',
-          '-lxml2',
-          '-lz'
         ]
       },
       'include_dirs': [
